@@ -1,9 +1,9 @@
 ### Hi there, I'm Full-stack developer!
 #### Here you can find my [portfolio](https://portfolio-cv-omega.vercel.app/)
 <p>My main Frontend frameworks at the moment are Vue and React. Almost all work projects are under NDA, but here are some projects that I've done purely out of enthusiasm:</p>
-<ul>
-<li>[App for diary with goals set (Nuxt, Firebase)](https://github.com/destolyar/dreamchaiser-diary)</li>
-<li>[My portfolio website (Next)](https://github.com/destolyar/portfolio-cv)</li>
+
+[App for diary with goals set (Nuxt, Firebase)](https://github.com/destolyar/dreamchaiser-diary)</br>
+[My portfolio website (Next)](https://github.com/destolyar/portfolio-cv)
 </ul>
 
 #### Resources for connect:
