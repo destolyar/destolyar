@@ -1,5 +1,14 @@
 ### Hi there, I'm Full-stack developer!
 #### Here you can find my [portfolio](https://portfolio-cv-omega.vercel.app/)
+<p>My main Frontend frameworks at the moment are Vue and React. Almost all work projects are under NDA, but here are some projects that I've done purely out of enthusiasm:</p>
+<ul>
+<li>[App for diary with goals set (Nuxt, Firebase)](https://github.com/destolyar/dreamchaiser-diary)</li>
+<li>[My portfolio website (Next)](https://github.com/destolyar/portfolio-cv)</li>
+</ul>
+
+#### Resources for connect:
+<a>[Linkedin](https://www.linkedin.com/in/vladislav-metik/)</a>
+<a>[Telegram](https://t.me/WhatisloveJaba)</a>
 
 <!--
 **destolyar/destolyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
